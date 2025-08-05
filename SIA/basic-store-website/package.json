@@ -1,0 +1,14 @@
+{
+  "name": "basic-store-website",
+  "version": "1.0.0",
+  "description": "A basic store website using Bootstrap 5.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
